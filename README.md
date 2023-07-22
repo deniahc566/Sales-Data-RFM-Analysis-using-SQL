@@ -6,4 +6,4 @@
 
 ## Nguồn dữ liệu
 Dữ liệu bao gồm số liệu kinh doanh của một công ty phân phối xe ô tô giai đoạn 2003 - 2005
-[File dữ liệu gốc] (/sales_data_sample)
+[File dữ liệu gốc] (https://github.com/deniahc566/Sales-Data-RFM-Analysis-using-SQL-and-PowerBI.git/sales_data_sample)
